@@ -1,0 +1,3 @@
+[submodule "1-example"]
+	path = 1-example
+	url = https://github.com/yacineatmani/use-kustomisation.git
